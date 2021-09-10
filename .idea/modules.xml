@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CalculatorLibraryDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/CalculatorLibraryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CalculatorLibrary/CalculatorLibraryDemo.CalculatorLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/CalculatorLibrary/CalculatorLibraryDemo.CalculatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalculatorLibraryDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalculatorLibraryDemo.app.iml" />
+    </modules>
+  </component>
+</project>
